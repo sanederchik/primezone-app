@@ -1,0 +1,23 @@
+@import './settings/base';
+
+
+.place {
+    font-size: $font-xsmall;
+    color: $color-base;
+    font-family: $fontfamily-base;
+}
+
+.place__desc {
+    line-height: $line-height-base;
+}
+
+.place__link {
+    font-size: $font-small;
+    color: $color-link;
+}
+
+.place__image {
+    width: 100%;
+    height: 100%;
+}
+
